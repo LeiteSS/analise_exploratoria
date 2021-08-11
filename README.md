@@ -1,0 +1,4 @@
+# Projeto Introdutorio à Ciência de Dados
+O jupyter notebook [intro.ipynb](intro.ipynb) introduziou alguns comandos que a biblioteca Pandas oferece. O jupyter notebook [cidade.ipynb](cidade.ipynb) tem exemplos de como gerar gráficos, enquanto que o [adventure.ipynb](adventure.ipynb) junta todos os conceitos mostrados nos jupyter notebooks anteriores e tem exemplos da análise exploratória.
+
+Na pasta `graphs` possuem os graficos gerados, enquanto que na pasta `datasets` tem as planilhas analisadas, inclusive a nova planilha gerada no [adventure.ipynb](adventure.ipynb) chamada de `df_vendas_novo.csv`.
